@@ -1,0 +1,76 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Registration id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GearTrax/GearTrax%2C%20Version%3D2017.25.0.253%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<m_SerialNumberType>Use_SOLIDWORKS_serial_number</m_SerialNumberType>
+<m_strUserName xsi:null="1"/>
+<m_strEmail id="ref-4">DANIELE.LONGONI@POLITO.IT</m_strEmail>
+<m_strCompanyName id="ref-5">POLITECNICO DI TORINO</m_strCompanyName>
+<m_strAddress xsi:null="1"/>
+<m_strAddress2 xsi:null="1"/>
+<m_strCity xsi:null="1"/>
+<m_strState xsi:null="1"/>
+<m_strPostalCode xsi:null="1"/>
+<m_strCountry xsi:null="1"/>
+<m_strTelephone xsi:null="1"/>
+<m_strFax xsi:null="1"/>
+<m_strRegistrationCode xsi:null="1"/>
+<m_Discount>None</m_Discount>
+<m_intQuantity>0</m_intQuantity>
+<m_strPO xsi:null="1"/>
+<m_strHowIHeard xsi:null="1"/>
+<m_strRecycleCost xsi:null="1"/>
+<m_blnLicenseAccepted>true</m_blnLicenseAccepted>
+<m_TrialType10Day>Use_SOLIDWORKS_Serial_Number</m_TrialType10Day>
+<m_intStream href="#ref-6"/>
+<m_dblStream href="#ref-7"/>
+<m_blnStream href="#ref-8"/>
+<m_strStream0 id="ref-9">C:\Users\d002308\Desktop</m_strStream0>
+<m_strStream1 xsi:null="1"/>
+<m_strStream2 xsi:null="1"/>
+<m_strStream3 xsi:null="1"/>
+<m_strStream4 xsi:null="1"/>
+<m_strStream5 xsi:null="1"/>
+<m_strStream6 xsi:null="1"/>
+<m_strStream7 xsi:null="1"/>
+<m_strStream8 xsi:null="1"/>
+<m_strStream9 xsi:null="1"/>
+<Fingerprint_x002B__x0024_STATIC_x0024_SerialNumber_x0024_200E_x0024_status>StatusOk</Fingerprint_x002B__x0024_STATIC_x0024_SerialNumber_x0024_200E_x0024_status>
+</a1:Registration>
+<SOAP-ENC:Array id="ref-6" SOAP-ENC:arrayType="xsd:int[10]">
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-7" SOAP-ENC:arrayType="xsd:double[10]">
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-8" SOAP-ENC:arrayType="xsd:boolean[10]">
+<item>False</item>
+<item>False</item>
+<item>False</item>
+<item>False</item>
+<item>False</item>
+<item>False</item>
+<item>False</item>
+<item>False</item>
+<item>False</item>
+<item>False</item>
+</SOAP-ENC:Array>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

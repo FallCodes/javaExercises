@@ -1,0 +1,28 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Registration id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GearTrax/GearTrax%2C%20Version%3D2015.23.0.151%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<m_SerialNumberType>Use_SolidWorks_serial_number</m_SerialNumberType>
+<m_strUserName xsi:null="1"/>
+<m_strEmail id="ref-4">DANIELE.LONGONI@POLITO.IT</m_strEmail>
+<m_strCompanyName id="ref-5">POLITECNICO DI TORINO</m_strCompanyName>
+<m_strAddress xsi:null="1"/>
+<m_strAddress2 xsi:null="1"/>
+<m_strCity xsi:null="1"/>
+<m_strState xsi:null="1"/>
+<m_strPostalCode xsi:null="1"/>
+<m_strCountry xsi:null="1"/>
+<m_strTelephone xsi:null="1"/>
+<m_strFax xsi:null="1"/>
+<m_strRegistrationCode xsi:null="1"/>
+<m_Discount>None</m_Discount>
+<m_intQuantity>0</m_intQuantity>
+<m_strPO xsi:null="1"/>
+<m_strHowIHeard xsi:null="1"/>
+<m_strRecycleCost xsi:null="1"/>
+<m_blnLicenseAccepted>true</m_blnLicenseAccepted>
+<m_TrialType10Day>Use_SolidWorks_Serial_Number</m_TrialType10Day>
+<Fingerprint_x002B__x0024_STATIC_x0024_SerialNumber_x0024_200E_x0024_status>StatusOk</Fingerprint_x002B__x0024_STATIC_x0024_SerialNumber_x0024_200E_x0024_status>
+</a1:Registration>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+
